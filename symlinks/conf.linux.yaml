@@ -7,4 +7,4 @@
 
 - link:
     ~/.dotly: os/linux/.dotly
-    ~/.config/nvim/lua/custom/init.lua: editors/vim/custom/init.lua
+    ~/.config/nvim/lua/custom: editors/vim/custom
