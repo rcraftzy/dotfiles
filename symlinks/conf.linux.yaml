@@ -1,0 +1,10 @@
+- clean: ['~']
+
+- defaults:
+    link:
+      create: true
+      force: true
+
+- link:
+    ~/.dotly: os/linux/.dotly
+    ~/.config/nvim/lua/custom/init.lua: editors/vim/custom/init.lua
