@@ -7,6 +7,6 @@
 
 - link:
     ~/.dotly: os/linux/.dotly
-    ~/.config/nvim/lua/custom: editors/vim/custom
+    ~/.config/nvim/lua/custom: editors/vim
     ~/.config/wezterm/wezterm.lua: os/linux/wezterm/wezterm.lua
     ~/.config/helix/config.toml: editors/helix/config.toml
