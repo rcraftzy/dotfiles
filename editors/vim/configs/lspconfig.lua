@@ -76,7 +76,7 @@ lspconfig.volar.setup {
     typescript = {
       -- tsdk = '/path/to/.npm/lib/node_modules/typescript/lib'
       -- Alternative location if installed as root:
-      tsdk = "/home/speedev/.fnm/node-versions/v18.12.0/installation/lib/node_modules/typescript/lib",
+      tsdk = "/home/berht/.fnm/node-versions/v18.12.0/installation/lib/node_modules/typescript/lib",
     },
   },
 }

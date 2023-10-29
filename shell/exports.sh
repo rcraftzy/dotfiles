@@ -39,7 +39,7 @@ path=(
 	"$GOPATH/bin"
   "$HOME/.cargo/bin"
   "$DENO_INSTALL/bin"
-  "$HOME/.fnm"
+  "$HOME/.local/share/fnm"
   "$HOME/.local/bin"
   "$BUN_INSTALL/bin"
   "/usr/local/go/bin"

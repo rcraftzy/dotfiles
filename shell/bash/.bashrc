@@ -1,4 +1,4 @@
-export DOTFILES_PATH="/home/speedev/.dotfiles"
+export DOTFILES_PATH="/home/berht/.dotfiles"
 export DOTLY_PATH="$DOTFILES_PATH/modules/dotly"
 export DOTLY_THEME="codely"
 
@@ -48,3 +48,7 @@ if [ -n "$(ls -A "$DOTFILES_PATH/shell/bash/completions/")" ]; then
     source "$bash_file"
   done
 fi
+
+# fnm
+export PATH="/home/berht/.local/share/fnm:$PATH"
+eval "`fnm env`"

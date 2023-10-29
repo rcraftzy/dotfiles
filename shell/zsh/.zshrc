@@ -2,7 +2,7 @@
 # Uncomment for debuf with `zprof`
 # zmodload zsh/zprof
 
-fm6000 -random
+# fm6000 -random
 
 # ZSH Ops
 setopt HIST_IGNORE_ALL_DUPS
@@ -32,4 +32,4 @@ source "$DOTFILES_PATH/shell/zsh/key-bindings.zsh"
 
 eval "`fnm env`"
 # bun completions
-[ -s "/home/speedev/.bun/_bun" ] && source "/home/speedev/.bun/_bun"
+[ -s "/home/berht/.bun/_bun" ] && source "/home/berht/.bun/_bun"
